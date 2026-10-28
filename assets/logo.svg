@@ -1,0 +1,7 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="36" fill="#0b2347"/>
+  <circle cx="100" cy="76" r="38" fill="#48d6b0"/>
+  <path d="M48 142h104l-12 18H60z" fill="#fff"/>
+  <text x="100" y="132" text-anchor="middle" font-size="32" font-family="Arial,sans-serif" font-weight="bold" fill="#fff">NDH</text>
+</svg>
